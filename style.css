@@ -2,3 +2,23 @@ img{
     width: 240px;
     height: 140px;
 }
+
+.heading li{
+    font-size: 1.4em;
+    display: inline-block;
+    margin:2% 3%;
+}
+.l:hover{
+    color: turquoise;
+    cursor: pointer;
+}
+
+.e:hover{
+    color: turquoise;
+    cursor: pointer;
+}
+
+.f:hover{
+    color: turquoise;
+    cursor: pointer;
+}
